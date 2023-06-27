@@ -30,4 +30,4 @@ En este proyecto se presenta el desarrollo de código que realicé para clonar l
 3. Pie de página (Footer): Esta sección contiene hipervínculos al final de la página.
 
 ### Demo Link
-Con el siguiente link puedes visualizar el [PROYECTO TERMINADO](https://tubular-pixie-5ac5b6.netlify.app/](https://main--endearing-lebkuchen-8e16fd.netlify.app)https://main--endearing-lebkuchen-8e16fd.netlify.app)
+Con el siguiente link puedes visualizar el [PROYECTO TERMINADO](https://main--endearing-lebkuchen-8e16fd.netlify.app)
